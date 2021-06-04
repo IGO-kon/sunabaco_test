@@ -19,7 +19,7 @@ locale.setlocale(locale.LC_TIME, 'ja_JP.UTF-8')
 
 date = dt.date(this_year, this_month, this_day)
 print("今日は"+ date.strftime('%A')+"です")  
-
+# あ
 
 
 # 出力例 今日は水曜日です
@@ -33,10 +33,7 @@ print("_________________________________")
 お題2: 一番大きい数、小さい数字、平均値は？
 お題: 配列の中の一番大きい数字、小さい数字、平均値をそれぞれ表示してください。
 """
-
 numbers = [73, 24, 64, 10, 56, 89]
-
-
 # ここから下に解答を書く
 
 
